@@ -625,7 +625,7 @@ aside .form {
         width: 50%;
     }
 
-    features i {
+    .features i {
         margin-bottom: 30px;
     }
 
@@ -677,7 +677,7 @@ aside .form {
 
     footer .social-icons {
         width: 12.5em;
-        justify-content: space-between';
+        justify-content: space-between;
     }
 
     footer .copyright {
